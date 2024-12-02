@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CecileSChapman
-- 👀 I’m interested in Web Design
-- 🌱 I’m currently learning Interactive Media Design
+- 👀 UX/UI Designer and Front-End Developer
+- 🌱 Interactive Media Design Graduate
 
 <!---
 CecileSChapman/CecileSChapman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
